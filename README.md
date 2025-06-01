@@ -2,7 +2,8 @@
 
 A real-time COVID-19 analytics dashboard built with Python, Dash, and Flask. Monitor global pandemic statistics with interactive visualizations and live updates.
 
-![PandemicPulse Dashboard](screenshot.png)
+![image](https://github.com/user-attachments/assets/0dcbdaf6-9bd5-431e-947f-2519260b3021)
+
 
 ## Features
 
